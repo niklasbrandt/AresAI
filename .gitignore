@@ -1,0 +1,6 @@
+.DS_Store
+analysis/grid-analyzed.md
+scratch/
+scratch_*
+*.pyc
+__pycache__/
